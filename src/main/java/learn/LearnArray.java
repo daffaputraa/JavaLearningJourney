@@ -1,5 +1,6 @@
-public class Array {
+package src.main.java.learn;
 
+public class LearnArray {
 
     public static String[] DataArray = new String[5];
     
@@ -54,7 +55,5 @@ public class Array {
         };
     }
 
-    public static void main(String[] args) {
-        BelajarArray.LearnArray();
-    }
+   
 }
